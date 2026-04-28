@@ -12,4 +12,4 @@ Wat zit erin:
 - gemengde examenmodus
 - lokale voortgang via de browser
 
-De app werkt volledig lokaal en gebruikt enkel de leerstof die uit de cursus werd verwerkt.
+De app bevat na de grondige PDF-audit 185 vragen: 99 meerkeuzevragen, 60 open vragen en 26 casussen. Ze werkt volledig lokaal en gebruikt enkel de leerstof die uit de cursus werd verwerkt.
